@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Andres Jeronimo Escobar Giraldo</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/data-science/</link>
+    <description>Recent content in Data Science on Andres Jeronimo Escobar Giraldo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Estate Dashboard</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-1/</guid>
+      <description>This project is a Streamlit dashboard where investors can analyse their personal protfolios and future aquisitions
+This dashboard includes two sections:
+General portfolio
+In this section we habe general portfolio information: net value, KPIs and a map to analysis geogephical information of properties
+Individual analysis
+In this section investors can get specific metrics for aquired and non aquired properties, the property to analyze can be selected in a dropdown menu, the properties shown in this can be filtered using filters located in site&amp;rsquo;s sidebar.</description>
+    </item>
+    
+  </channel>
+</rss>

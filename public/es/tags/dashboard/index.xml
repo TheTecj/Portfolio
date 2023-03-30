@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on Andres Jeronimo Escobar Giraldo</title>
+    <link>https://gohugo-theme-ananke.pages.dev/es/tags/dashboard/</link>
+    <description>Recent content in dashboard on Andres Jeronimo Escobar Giraldo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://gohugo-theme-ananke.pages.dev/es/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard de Bienes Raices</title>
+      <link>https://gohugo-theme-ananke.pages.dev/es/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/es/post/chapter-1/</guid>
+      <description>Este proyecto consiste en un dashboard de Streamlit mediante el cual lo inversionistas pueden analizar tanto su portafolio como perfilar futuras adquisiciones
+Este dashboard se divide en 2 apartados:
+Portafolio general
+En este apartado se brinda la informacion general del portafolio: valuacion, KPIs de rendimiento y se muestra un mapa en el que se puede visualizar la informacion geografica de los inmuebles
+Analisis individualizado
+En este apartado, los inversionistas tienen la posibilidad de consultar metricas especificas tanto de los inmuebles adquiridos como de las oportunidades de inversion, la seleccion de inmuebles se hace a traves de un menu dropdown en el que se debe escoger la propiedad a analizar, las opciones mostradas en el dropdown se pueden filtrar usando filtros ubicados en la barra de opciones lateral de la pagina</description>
+    </item>
+    
+  </channel>
+</rss>
