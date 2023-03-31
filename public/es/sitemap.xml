@@ -2,104 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/analitica/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/tags/analitica/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/bienes-raices/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/tags/bienes-raices/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/categories/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://TheTecj.github.io/Portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/categories/"
+                href="https://TheTecj.github.io/Portfolio/es/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/ciencia-de-datos/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/tags/ciencia-de-datos/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/dashboard/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/tags/dashboard/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/dashboard/"
+                href="https://TheTecj.github.io/Portfolio/tags/dashboard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/tags/dashboard/"
+                href="https://TheTecj.github.io/Portfolio/es/tags/dashboard/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/post/chapter-1/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/post/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/contact/"
-                />
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://TheTecj.github.io/Portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/"
+                href="https://TheTecj.github.io/Portfolio/es/contact/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/post/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/post/"
+                href="https://TheTecj.github.io/Portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/post/"
+                href="https://TheTecj.github.io/Portfolio/es/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/es/tags/</loc>
+    <loc>https://TheTecj.github.io/Portfolio/es/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://TheTecj.github.io/Portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gohugo-theme-ananke.pages.dev/es/tags/"
+                href="https://TheTecj.github.io/Portfolio/es/post/"
+                />
+  </url><url>
+    <loc>https://TheTecj.github.io/Portfolio/es/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://TheTecj.github.io/Portfolio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://TheTecj.github.io/Portfolio/es/tags/"
                 />
   </url>
 </urlset>

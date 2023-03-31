@@ -1,5 +1,5 @@
 title = "Andres Jeronimo Escobar Giraldo"
-baseURL = "https://TheTecj.github.io/Portfolio/"
+baseURL = "https://thetecj.github.io/Portfolio/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
