@@ -1,8 +1,8 @@
 title = "Andres Jeronimo Escobar Giraldo"
-baseURL = "https://thetecj.github.io/Portfolio/"
+baseURL = "https://thetecj.github.io/"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "./resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
