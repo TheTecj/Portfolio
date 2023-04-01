@@ -15,7 +15,7 @@ This dashboard includes two sections:
 
 ![General image 2](/images/Real-Estate-General2.jpeg)
 
-In this section we habe general portfolio information: net value, KPIs and a map to analysis geogephical information of properties
+In this section we have general portfolio information: net value, KPIs and a map to analysis geogephical information of properties
 
 **Individual analysis**
 
