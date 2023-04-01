@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project portfolio on Andres Jeronimo Escobar Giraldo</title>
-    <link>https://TheTecj.github.io/Portfolio/</link>
+    <link>https://thetecj.github.io/Portfolio/</link>
     <description>Recent content in Project portfolio on Andres Jeronimo Escobar Giraldo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://TheTecj.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://thetecj.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Professional Information</title>
-      <link>https://TheTecj.github.io/Portfolio/contact/</link>
+      <link>https://thetecj.github.io/Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://TheTecj.github.io/Portfolio/contact/</guid>
+      <guid>https://thetecj.github.io/Portfolio/contact/</guid>
       <description>About me I am Andres Jeronimo Escobar Giraldo, a Systems Engineer with an insatiable thirst for knowledge and the strong conviction that we can leverage data we obtain from the world to transform it
 My Professional Profiles Platform URL GitHub: https://github.com/TheTecj LinkedIn: https://www.linkedin.com/in/jeroescobar </description>
     </item>
     
     <item>
       <title>Real Estate Dashboard</title>
-      <link>https://TheTecj.github.io/Portfolio/post/project-1/</link>
+      <link>https://thetecj.github.io/Portfolio/post/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://TheTecj.github.io/Portfolio/post/project-1/</guid>
+      <guid>https://thetecj.github.io/Portfolio/post/project-1/</guid>
       <description>This project is a Streamlit dashboard where investors can analyse their personal protfolios and future aquisitions
 This dashboard includes two sections:
 General portfolio

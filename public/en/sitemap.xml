@@ -2,104 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TheTecj.github.io/Portfolio/tags/analytics/</loc>
+    <loc>https://thetecj.github.io/Portfolio/tags/analytics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/categories/</loc>
+    <loc>https://thetecj.github.io/Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/categories/"
+                href="https://thetecj.github.io/Portfolio/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/categories/"
+                href="https://thetecj.github.io/Portfolio/categories/"
                 />
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/tags/dashboard/</loc>
+    <loc>https://thetecj.github.io/Portfolio/tags/dashboard/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/tags/dashboard/"
+                href="https://thetecj.github.io/Portfolio/es/tags/dashboard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/tags/dashboard/"
+                href="https://thetecj.github.io/Portfolio/tags/dashboard/"
                 />
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/tags/data-science/</loc>
+    <loc>https://thetecj.github.io/Portfolio/tags/data-science/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/contact/</loc>
+    <loc>https://thetecj.github.io/Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/contact/"
+                href="https://thetecj.github.io/Portfolio/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/contact/"
+                href="https://thetecj.github.io/Portfolio/contact/"
                 />
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/</loc>
+    <loc>https://thetecj.github.io/Portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/"
+                href="https://thetecj.github.io/Portfolio/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/"
+                href="https://thetecj.github.io/Portfolio/"
                 />
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/post/</loc>
+    <loc>https://thetecj.github.io/Portfolio/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/post/"
+                href="https://thetecj.github.io/Portfolio/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/post/"
+                href="https://thetecj.github.io/Portfolio/post/"
                 />
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/tags/real-estate/</loc>
+    <loc>https://thetecj.github.io/Portfolio/tags/real-estate/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/post/project-1/</loc>
+    <loc>https://thetecj.github.io/Portfolio/post/project-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TheTecj.github.io/Portfolio/tags/</loc>
+    <loc>https://thetecj.github.io/Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://TheTecj.github.io/Portfolio/es/tags/"
+                href="https://thetecj.github.io/Portfolio/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TheTecj.github.io/Portfolio/tags/"
+                href="https://thetecj.github.io/Portfolio/tags/"
                 />
   </url>
 </urlset>
