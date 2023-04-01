@@ -29,6 +29,8 @@ Depending on the type of property to analyze, metrics shown will vary:
 
 *Oportunity*: Investment quality rating, negaotiation values and KPIs estimated accoirding to geographic location
 
+You can check a demo of this dashboard in this [URL](https://thetecj-realestatedashboard-main-ktz5fv.streamlit.app/)
+
 **About the dataset**
 
  *At the moment this tool uses a manually filled csv file where an interested investor can enter properties and get calculated KPIs, however, I am working in a Web Scraper to include a greater volume of data automatically so I can test the robustness and usefulness of the program in a greater scale*

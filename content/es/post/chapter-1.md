@@ -29,6 +29,8 @@ Segun el tipo de inmueble a analizar, se muestran metricas diferentes:
 
 *Oportunidad*: Se muestran su calificacion de calidad como inversion, posibles valores implicados en la negociacion y metricas de desempeño estimadas mediante informacion geografica
 
+Puede revisar una demo del dashboard en esta [URL](https://thetecj-realestatedashboard-main-ktz5fv.streamlit.app/)
+
 **Sobre el dataset**
 
  *De momento esta herramienta usa un archivo csv llenado de forma manual, de manera que cualquier inversionista interesado en conocer los KPI de sus  inmuebles solo tendria que ponerlas en el archivo y revisar las metricas generadas, sin embargo, me encuentro trabajando en un Web Scraper que me permita incluir de forma automatizada un mayor volumen de datos de forma que se pueda comprobar la robustez y utilidad de esta herramienta a gran escala*
