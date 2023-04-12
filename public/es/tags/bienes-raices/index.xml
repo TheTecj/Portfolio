@@ -8,10 +8,10 @@
     <language>en-us</language><atom:link href="https://thetecj.github.io/Portfolio/es/tags/bienes-raices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dashboard de Bienes Raices</title>
-      <link>https://thetecj.github.io/Portfolio/es/post/chapter-1/</link>
+      <link>https://thetecj.github.io/Portfolio/es/post/real_estate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thetecj.github.io/Portfolio/es/post/chapter-1/</guid>
+      <guid>https://thetecj.github.io/Portfolio/es/post/real_estate/</guid>
       <description>Este proyecto consiste en un dashboard de Streamlit mediante el cual lo inversionistas pueden analizar tanto su portafolio como perfilar futuras adquisiciones
 Este dashboard se divide en 2 apartados:
 Portafolio general
