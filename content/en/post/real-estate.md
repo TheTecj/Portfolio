@@ -33,4 +33,4 @@ You can check a demo of this dashboard in this [URL](https://thetecj-realestated
 
 **About the dataset**
 
- *At the moment this tool uses a manually filled csv file where an interested investor can enter properties and get calculated KPIs, however, I am working in a Web Scraper to include a greater volume of data automatically so I can test the robustness and usefulness of the program in a greater scale*
+ At the moment this tool uses a manually filled csv file where an interested investor can enter properties and get calculated KPIs and a scraped dataset including 1419 properties pusblished for sale in [Mercado Libre](https://www.mercadolibre.com). In the future I plan to add more realistic data about rent prices near properties to make metric calculations as accurate as possible, possibly this will be done by including another scraped dataset with porperties for rent.
